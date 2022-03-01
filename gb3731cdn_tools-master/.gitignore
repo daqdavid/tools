@@ -1,0 +1,11 @@
+*_util
+*.o
+tc_fail
+fan
+led
+build
+.vscode/settings.json
+image_build/temp
+*.img
+*.tar.gz
+*.zip
